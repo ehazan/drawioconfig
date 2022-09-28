@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T19:57:10.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="D-O2xUD3ryXmklm53MsE" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T20:09:29.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lz81Tt4EBW3k6tFYO4rA" version="20.3.7" type="github">
   <diagram id="kSlmdviAg1-pVzBBi7XQ" name="Page-1">
-    <mxGraphModel dx="2148" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,15 +19,12 @@
           <mxGeometry x="-710" y="65" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PpLlGTQVTSIXO17ns73P-17" value="Use OCI images for helm charts ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-705" y="95" width="230" height="30" as="geometry" />
+          <mxGeometry x="-709" y="95" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PpLlGTQVTSIXO17ns73P-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" target="PpLlGTQVTSIXO17ns73P-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-426" y="286" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PpLlGTQVTSIXO17ns73P-20" value="Finish GitHub course" style="whiteSpace=wrap;html=1;fillColor=#66FF66;" parent="1" vertex="1">
-          <mxGeometry x="-501" y="225" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PpLlGTQVTSIXO17ns73P-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="PpLlGTQVTSIXO17ns73P-22" target="PpLlGTQVTSIXO17ns73P-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,10 +51,13 @@
           <mxGeometry x="-488.5" y="616" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eU6zSciJ6Pofom5r6gHZ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Usage of Terraform Cloud ?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="125" width="200" height="30" as="geometry" />
+          <mxGeometry x="-714" y="125" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eU6zSciJ6Pofom5r6gHZ-3" value="Can Event Bridge detect hibernate state of EC2 ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-710" y="155" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eU6zSciJ6Pofom5r6gHZ-5" value="Finish GitHub Actions course" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF9933;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="226" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
