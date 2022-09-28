@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T20:09:29.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lz81Tt4EBW3k6tFYO4rA" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T20:11:01.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x4BqSTTSaKUlYW9pVKNs" version="20.3.7" type="github">
   <diagram id="kSlmdviAg1-pVzBBi7XQ" name="Page-1">
     <mxGraphModel dx="2388" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="eU6zSciJ6Pofom5r6gHZ-3" value="Can Event Bridge detect hibernate state of EC2 ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-710" y="155" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eU6zSciJ6Pofom5r6gHZ-5" value="Finish GitHub Actions course" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF9933;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="eU6zSciJ6Pofom5r6gHZ-5" value="Finish GitHub Actions course" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF9933;fontSize=14;fillColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="-500" y="226" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
