@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T14:03:19.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HWzodnvugKYyp4LwOLiy" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T17:05:02.392Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BTV0aggTb6mvmxaD-ofc" version="20.3.7" type="github">
   <diagram id="kSlmdviAg1-pVzBBi7XQ" name="Page-1">
     <mxGraphModel dx="2388" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="eU6zSciJ6Pofom5r6gHZ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Usage of Terraform Cloud ?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-714" y="125" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eU6zSciJ6Pofom5r6gHZ-3" value="Can Event Bridge detect hibernate state of EC2 ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="eU6zSciJ6Pofom5r6gHZ-3" value="Can Event Bridge detect hibernate state of EC2 ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#0000FF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-710" y="155" width="330" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Finish GitHub Actions course" link="https://starsgroup.udemy.com/course/github-actions/learn/lecture/17438370#overview" id="eU6zSciJ6Pofom5r6gHZ-5">
@@ -64,7 +64,10 @@
         <mxCell id="3z7Y1lrVuSdcJlvVmH38-2" value="EC2 Image builder experiment with image creation vs Packer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-709" y="185" width="350" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Build TF EC2 Builder" link="https://registry.terraform.io/providers/aaronfeng/aws/latest/docs/resources/imagebuilder_infrastructure_configuration" id="3z7Y1lrVuSdcJlvVmH38-3">
+        <mxCell id="3z7Y1lrVuSdcJlvVmH38-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3z7Y1lrVuSdcJlvVmH38-3" target="3z7Y1lrVuSdcJlvVmH38-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Build TF EC2 Builder" link="https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/imagebuilder_component" id="3z7Y1lrVuSdcJlvVmH38-3">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
             <mxGeometry x="-359" y="660" width="160" height="30" as="geometry" />
           </mxCell>
@@ -73,6 +76,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="370" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <UserObject label="Watch youtube lecture" link="https://www.youtube.com/watch?v=S1eUw8ztAm8" id="3z7Y1lrVuSdcJlvVmH38-9">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;strokeWidth=1;spacing=4;" vertex="1" parent="1">
+            <mxGeometry x="-339" y="500" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3z7Y1lrVuSdcJlvVmH38-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3z7Y1lrVuSdcJlvVmH38-11" target="PpLlGTQVTSIXO17ns73P-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3z7Y1lrVuSdcJlvVmH38-11" value="BLOCKED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="620" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
