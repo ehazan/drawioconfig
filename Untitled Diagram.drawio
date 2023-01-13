@@ -1,11 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T01:40:12.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="bIrR-oPLsM5_scMZvXHK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T01:44:01.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="fBqOnvvGlJscJ3OqdmGw" type="github">
   <diagram id="7cmB-4eVgnnvlEHMJ81f" name="Page-1">
     <mxGraphModel dx="1546" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fn7y05_WeIn9cux56BW8-9" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Fn7y05_WeIn9cux56BW8-7" target="Fn7y05_WeIn9cux56BW8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7y05_WeIn9cux56BW8-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Fn7y05_WeIn9cux56BW8-7" target="Fn7y05_WeIn9cux56BW8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7y05_WeIn9cux56BW8-12" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Fn7y05_WeIn9cux56BW8-7" target="Fn7y05_WeIn9cux56BW8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn7y05_WeIn9cux56BW8-14" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="Fn7y05_WeIn9cux56BW8-7" target="Fn7y05_WeIn9cux56BW8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fn7y05_WeIn9cux56BW8-7" value="Share certifivate&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Use secret in python&lt;br&gt;" link="https://stackoverflow.com/questions/55159582/k8s-python-how-do-i-read-a-secret-using-the-kubernetes-python-client" id="Fn7y05_WeIn9cux56BW8-8">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Secret Manager permissions" link="https://docs.aws.amazon.com/secretsmanager/latest/userguide/auth-and-access_examples_cross.html" id="Fn7y05_WeIn9cux56BW8-10">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Fn7y05_WeIn9cux56BW8-13" value="Implement Lambda&lt;br&gt;(python or go)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
